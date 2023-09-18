@@ -12,10 +12,14 @@ html {
   );
 
   --imp-text-color: #c770f0;
+  --im-text-color: #2def0b;
 }
 
 .purple {
   color: var(--imp-text-color) !important;
+}
+.green {
+  color: var(--im-text-color) !important;
 }
 
 button:focus {
