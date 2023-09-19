@@ -23,11 +23,6 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️ and I also love photography
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C, Python, Javascript and Go. </b>
-              </i>
-              <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>

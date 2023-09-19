@@ -63,16 +63,7 @@ function Footer() {
                 <AiFillInstagram />
               </a>
             </li>
-            {/* <li className="social-icons">
-              <a
-                href="https://www.facebook.com/Birsrijan"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <BsFacebook/>
-              </a>
-            </li> */}
+            
           </ul>
         </Col>
       </Row>

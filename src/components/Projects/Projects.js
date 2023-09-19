@@ -38,7 +38,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Ai Universe Hub"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Ai Universe Hub is a basically develop HTML, CSS, JavaScript, React and also use API and made responsive"
               ghLink="#"
               demoLink="https://sunny-croissant-96f450.netlify.app/"
             />
@@ -71,9 +71,9 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Justice"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Justice webpage is basically a static portfolio website build with HTML & CSS and made responsive"
               ghLink="#"
-              demoLink="https://strong-douhua-116eb6.netlify.app"
+              demoLink="https://effulgent-figolla-b9020a.netlify.app"
             />
           </Col>
 
